@@ -1,0 +1,16 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: blue;
+  text-decoration: underline;
+}
+
+li {
+  color: green;
+}
+
+li:hover {
+  color: orange;
+}
